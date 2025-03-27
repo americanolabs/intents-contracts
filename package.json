@@ -78,5 +78,6 @@
     "run:upgradeSimple": "dotenv-run-script upgradeSimple",
     "refundOrder": "forge script script/RefundOrder.s.sol:RefundOrder -f $NETWORK --broadcast --slow -vvv",
     "run:refundOrder": "dotenv-run-script refundOrder"
-  }
+  },
+  "packageManager": "yarn@4.6.0+sha224.acd0786f07ffc6c933940eb65fc1d627131ddf5455bddcc295dc90fd"
 }
