@@ -57,18 +57,11 @@ cases and requirements.
 
 ## Deployment Addresses
 
-| Blockchain | Proxy | Implementation |
-| ---------- | ----- | -------------- |
-| Mainnet    | [`0x5F69f9aeEB44e713fBFBeb136d712b22ce49eb88`](https://etherscan.io/address/0x5F69f9aeEB44e713fBFBeb136d712b22ce49eb88) | [`0x5A854219B9e49a73074b55B7e006CB0Bc2cf91Eb`](https://etherscan.io/address/0x5A854219B9e49a73074b55B7e006CB0Bc2cf91Eb)  |
-| Optimism   | [`0x9245A985d2055CeA7576B293Da8649bb6C5af9D0`](https://optimistic.etherscan.io/address/0x9245A985d2055CeA7576B293Da8649bb6C5af9D0) | [`0x5A854219B9e49a73074b55B7e006CB0Bc2cf91Eb`](https://optimistic.etherscan.io/address/0x5A854219B9e49a73074b55B7e006CB0Bc2cf91Eb) |
-| Arbitrum   | [`0x9245A985d2055CeA7576B293Da8649bb6C5af9D0`](https://arbiscan.io/address/0x9245A985d2055CeA7576B293Da8649bb6C5af9D0) | [`0x5A854219B9e49a73074b55B7e006CB0Bc2cf91Eb`](https://arbiscan.io/address/0x5A854219B9e49a73074b55B7e006CB0Bc2cf91Eb) |
-| Base       | [`0x9245A985d2055CeA7576B293Da8649bb6C5af9D0`](https://basescan.org/address/0x9245A985d2055CeA7576B293Da8649bb6C5af9D0) | [`0x5A854219B9e49a73074b55B7e006CB0Bc2cf91Eb`](https://basescan.org/address/0x5A854219B9e49a73074b55B7e006CB0Bc2cf91Eb) |
-| Gnosis     | [`0x9245A985d2055CeA7576B293Da8649bb6C5af9D0`](https://gnosisscan.io/address/0x9245A985d2055CeA7576B293Da8649bb6C5af9D0) | [`0x5A854219B9e49a73074b55B7e006CB0Bc2cf91Eb`](https://gnosisscan.io/address/0x5A854219B9e49a73074b55B7e006CB0Bc2cf91Eb) |
-| Berachain  | [`0x9245A985d2055CeA7576B293Da8649bb6C5af9D0`](https://berascan.com/address/0x9245A985d2055CeA7576B293Da8649bb6C5af9D0) | [`0x5A854219B9e49a73074b55B7e006CB0Bc2cf91Eb`](https://berascan.com/address/0x5A854219B9e49a73074b55B7e006CB0Bc2cf91Eb) |
-| Form       | [`0x9245A985d2055CeA7576B293Da8649bb6C5af9D0`](https://explorer.form.network/address/0x9245A985d2055CeA7576B293Da8649bb6C5af9D0) | [`0x5A854219B9e49a73074b55B7e006CB0Bc2cf91Eb`](https://explorer.form.network/address/0x5A854219B9e49a73074b55B7e006CB0Bc2cf91Eb) |
-| Unichain   | [`0x9245A985d2055CeA7576B293Da8649bb6C5af9D0`](https://uniscan.xyz/address/0x9245A985d2055CeA7576B293Da8649bb6C5af9D0) | [`0x5A854219B9e49a73074b55B7e006CB0Bc2cf91Eb`](https://uniscan.xyz/address/0x5A854219B9e49a73074b55B7e006CB0Bc2cf91Eb) |
-| Artela     | [`0x9245A985d2055CeA7576B293Da8649bb6C5af9D0`](https://artscan.artela.network/address/0x9245A985d2055CeA7576B293Da8649bb6C5af9D0) | [`0x5A854219B9e49a73074b55B7e006CB0Bc2cf91Eb`](https://artscan.artela.network/address/0x5A854219B9e49a73074b55B7e006CB0Bc2cf91Eb) |
-
+| Blockchain       | Proxy | Implementation |
+| -------------- | ----- | -------------- |
+| **Arbitrum Sepolia** | [`0x512097Cb649F5222591060E7644688b944480597`](https://sepolia.arbiscan.io/address/0x512097Cb649F5222591060E7644688b944480597) | [`0x52D1632779FB9D22f22aAF1ca0b2A0858c5c7974`](https://sepolia.arbiscan.io/address/0x52D1632779FB9D22f22aAF1ca0b2A0858c5c7974) |
+| **Base Sepolia** | [`0x512097Cb649F5222591060E7644688b944480597`](https://sepolia.basescan.org/address/0x512097Cb649F5222591060E7644688b944480597) | [`0x52D1632779FB9D22f22aAF1ca0b2A0858c5c7974`](https://sepolia.basescan.org/address/0x52D1632779FB9D22f22aAF1ca0b2A0858c5c7974) |
+| **Decaf Testnet** | [`0x512097Cb649F5222591060E7644688b944480597`] | [`0x52D1632779FB9D22f22aAF1ca0b2A0858c5c7974`] |
 
 ## Scripts
 
