@@ -74,7 +74,7 @@
     "test": "forge test -vvv",
     "test:coverage": "forge coverage --no-match-coverage \"(test|mock|node_modules|script)\"",
     "test:coverage:report": "forge coverage --no-match-coverage \"(test|mock|node_modules|script)\" --report lcov && genhtml lcov.info --ignore-errors inconsistent,inconsistent --branch-coverage --output-dir coverage",
-    "deployHyperlane7683": "forge script script/DeployHyperlane7683.s.sol:DeployHyperlane7683 -f $NETWORK --broadcast --verify --verifier sourcify --via-ir --slow -vvv",
+    "deployHyperlane7683": "forge script script/DeployHyperlane7683.s.sol:DeployHyperlane7683 -f $NETWORK --broadcast --via-ir --slow -vvv",
     "run:deployHyperlane7683": "dotenv-run-script deployHyperlane7683",
     "deploySimple": "forge script script/DeploySimple.s.sol:DeploySimple -f $NETWORK --broadcast --slow -vvv",
     "run:deploySimple": "dotenv-run-script deploySimple",
